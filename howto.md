@@ -30,3 +30,5 @@ If you have a preferred style to use each time, make sure to save these settings
 10) Fill in the __Name, Filename, and Zoom__ fields.  it is helpful to populate __Filename__ with zoom levels, date, etc (dpa19_4_Federal_13_18_20190717)
 
 (Note: you will need to test file sizes by changing zoom levels as this determines how many tiles will be created by zoom level)  For smaller filesizes, try to stay below zoom level 18
+
+11) Allow the export to complete (usually 5-90 minutes depending on file size).  View and __Save__ file in the __Export__ button
