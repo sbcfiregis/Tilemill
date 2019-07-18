@@ -24,3 +24,9 @@ If you have a preferred style to use each time, make sure to save these settings
   }
   polygon-fill: #fff;
 }*/
+
+8) Be sure to click __Save__ > __Export__ > __MBTiles__
+9) Zoom into your data and use __Shift+drag__ to roughly outline your data area.  Then click the center of data to place center pin
+10) Fill in the __Name, Filename, and Zoom__ fields.  it is helpful to populate __Filename__ with zoom levels, date, etc (dpa19_4_Federal_13_18_20190717)
+
+(Note: you will need to test file sizes by changing zoom levels as this determines how many tiles will be created by zoom level)  For smaller filesizes, try to stay below zoom level 18
