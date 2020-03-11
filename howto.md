@@ -2,9 +2,9 @@ __1)__ Download Tilemill from https://tilemill-project.github.io/tilemill/
 
 __2)__ Create new project and name
 
-__3)__ Make sure to do all geoprocessing, clipping, & reprojecting in GIS program before next step
+__3)__ Make sure to do all geoprocessing, clipping, & reprojecting in GIS program before next step (Note: must be in WGS 84: EPSG-4326)
 
-__4)__ In bottom left corner, click __Layers__ > __Add Layer__ > Navigate to your shapefile (Note: must be in WGS 84: EPSG-4326)
+__4)__ In bottom left corner, click __Layers__ > __Add Layer__ > Navigate to your shapefile 
 
 __5)__ Next to "Datasource" click __Browse__ > Navigate and highlight to your saved .shp > Click __Save & Style__
 
